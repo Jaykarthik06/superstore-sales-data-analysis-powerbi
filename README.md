@@ -71,7 +71,6 @@ SUMMARIZE(
 ---
 
 ## 📊 Dashboard Features
-
 ### KPI Monitoring
 
 * Total Sales
@@ -147,7 +146,8 @@ Through this project, the following skills were strengthened:
 
 ## 📷 Dashboard Preview
 
-*Add dashboard screenshots here.*
+<img width="401" height="223" alt="Screenshot 2026-07-03 175355" src="https://github.com/user-attachments/assets/d3c71c3b-a9e8-4624-bdad-655577299b2e" />
+
 
 ---
 
